@@ -1,0 +1,26 @@
+{
+"name": "441-kovmwf",
+"version": "1.0.0",
+"description": "Monitor vital health metrics with a wearable device and corresponding mobile app.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/harryuz198/441Health-Monitoring-Wearable-App.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "harryuz198",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
